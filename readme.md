@@ -1,1 +1,1 @@
-vaffanculo
+( ㆁ ω ㆁ )
