@@ -2,19 +2,21 @@ site_name: ADD
 site_url: https://mydomain.org/mysite
 theme:
   name: material
-  palette: 
+  palette:
 
     # Palette toggle for light mode
     - scheme: default
-      toggle:
-        icon: material/brightness-7 
+      toggle: 
+        icon: material/weather-night 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
-      toggle:
-        icon: material/brightness-4
+      toggle: 
+        icon: material/weather-sunny
         name: Switch to light mode
+
+    
   features:
     - navigation.instant
     - navigation.instant.prefetch

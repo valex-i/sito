@@ -1,12 +1,14 @@
 # I MIEI LAVORI IN 3D
 
-App utilizzata: WOMP
+Per altri lavori visita il sito:  [WOMP](https://beta.womp.com/discover){:target="_blank"}
 
-Per altri lavori visita il sito:  https://beta.womp.com/discover
+Username:  [0k](https://beta.womp.com/profile/e7d37f52-dd31-4ef7-a029-19e518be62e7){:target="_blank"}
 
-Username: @0k
+![kusco's poison](i-miei-oggetti-3D/kusco's poison.png){:style="width:300px; height:auto;"}
+![kusco's poison](i-miei-oggetti-3D/pa pozione per kusco.jpg){:style="width:600px; height:auto;"}
 
-https://beta.womp.com/profile/e7d37f52-dd31-4ef7-a029-19e518be62e7
+Invece questi sono dei calici di vetro:
 
+![bicchiere](i-miei-oggetti-3D/bicchieri.png){:style="width:300px; height:auto;"}
 
-![bicchieri](i-miei-oggetti-3D/bicchieri.png){:style="width:500px; height:auto;"}
+ e un bicchiere.
