@@ -54,6 +54,7 @@ nav:
   - About: 
     - About Me: about/about.md
     - childhood: about/childhood.md
+    - immagini: about/immagini.md
   - Tags: tags.md
   - Blog:
     - blog/index.md
