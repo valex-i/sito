@@ -2,19 +2,23 @@ site_name: ADD
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  font:
+    text: 
   palette:
 
     # Palette toggle for light mode
-    - scheme: default
+    - primary: purple
       toggle: 
         icon: material/weather-night 
         name: Switch to dark mode
 
     # Palette toggle for dark mode
     - scheme: slate
+      primary: purple
       toggle: 
         icon: material/weather-sunny
         name: Switch to light mode
+        
 
     
   features:
