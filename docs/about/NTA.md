@@ -1,8 +1,8 @@
 ---
 tags:
-  - picasso
-  - cubismo
-  - artisti
+  - tesi
+  - casco
+  - mondo
 ---
 
 ## RESOCONTO ESPERIENZA MAPPA ##
