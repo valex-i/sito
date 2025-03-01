@@ -21,7 +21,7 @@ Per essere sicuri della riuscita di questa sperimentazione, abbiamo deciso di po
 
 SE NON TI FERMI NON SAI COSA VUOL DIRE MUOVERSI/NON SAI COME MUOVERTI.
 
-![mondo](i-miei-oggetti-3D/mondo.jpg){:style="width:300px; height:auto;"}
+![mondo](i-miei-oggetti-3D/mondo.jpg){:style="width:600px; height:auto;"}
 
 
 ## RESOCONTO ESPERIENZA OLD-DOCUMENTARIO ##
