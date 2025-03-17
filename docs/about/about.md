@@ -17,4 +17,4 @@ Principalmente perchè non è quello che mi interessa. Vidi un video che diceva 
 
 È ancora in fase di modellazione, ma sto adorando come sta venendo, specialmente considerando che è la mia prima testa.
 Con questo ho imparato molte scorciatoie e cose utili.
-Ad aiutarmi ancora di più ho trovato un file con tutte le scorciatoie base: [Keyboard Shortcut Cheat Sheet](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTZiX3lLUC1QSmxIemJxcTM4Y0NxQ1BXTlJXd3xBQ3Jtc0trUFltWU9qUFJoV0ctaWNiQWxOVlFHWF9PdnlnQ0J3SHBBVkg3VkJBVnVWY29nbmQzZm5rY01jYm5CMnFwMExLQmdnYUs2eVBua0FwZWRIdEhHbnVYQThwcFFKcDZDSXlTQ0NHTkNJMDFtWEpjUHVoTQ&q=https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o%2Fedit%3Fusp%3Dsharing&v=--GVNZnSROc){:target="_blank"}
+Ad aiutarmi ancora di più ho trovato un file con tutte le scorciatoie base: [Keyboard Shortcut Cheat Sheet](https://docs.google.com/document/d/1zPBgZAdftWa6WVa7UIFUqW_7EcqOYE0X743RqFuJL3o/edit?tab=t.0#heading=h.ftqi9ub1gec3){:target="_blank"}
